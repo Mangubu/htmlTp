@@ -1,3 +1,3 @@
 First project :
 
-  - integration from a PDG file
+  - integration from a PDF file
